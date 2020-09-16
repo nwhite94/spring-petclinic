@@ -124,7 +124,7 @@
          <warFile>target\petclinic.war</warFile>
          <path>/petclinic</path>
          <username>admin</username>
-        <password>cloud@123</password>
+        <password>nikolas94</password>
          </configuration>
      </plugin>  
       <plugin>
