@@ -11,6 +11,6 @@
     node {
           sh 'terraform init'
           sh 'terraform plan -out=plan'
-          //ssh 'terraform apply plan'
+          sh 'terraform apply plan'
          }
   }
